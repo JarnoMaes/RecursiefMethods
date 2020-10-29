@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiefMethods", "RecursiefMethods\RecursiefMethods.csproj", "{09CC20E5-B822-423A-BDFD-D687ACA7F4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParseDemo", "TryParseDemo\TryParseDemo.csproj", "{A602384A-3444-4791-B504-2DD88CB5AC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateNumber", "ValidateNumber\ValidateNumber.csproj", "{F089CDEA-7BBD-4384-BC54-B47CB8F4D920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectDemo", "ObjectDemo\ObjectDemo.csproj", "{4783E620-01A5-4BA6-91D9-AC367F63576A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CC20E5-B822-423A-BDFD-D687ACA7F4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CC20E5-B822-423A-BDFD-D687ACA7F4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CC20E5-B822-423A-BDFD-D687ACA7F4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CC20E5-B822-423A-BDFD-D687ACA7F4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A602384A-3444-4791-B504-2DD88CB5AC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A602384A-3444-4791-B504-2DD88CB5AC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A602384A-3444-4791-B504-2DD88CB5AC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A602384A-3444-4791-B504-2DD88CB5AC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F089CDEA-7BBD-4384-BC54-B47CB8F4D920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F089CDEA-7BBD-4384-BC54-B47CB8F4D920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F089CDEA-7BBD-4384-BC54-B47CB8F4D920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F089CDEA-7BBD-4384-BC54-B47CB8F4D920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4783E620-01A5-4BA6-91D9-AC367F63576A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4783E620-01A5-4BA6-91D9-AC367F63576A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4783E620-01A5-4BA6-91D9-AC367F63576A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4783E620-01A5-4BA6-91D9-AC367F63576A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CBB1E31-B0D1-477D-99F2-5F987CD13018}
+	EndGlobalSection
+EndGlobal
